@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Spotify](https://mehak-aggarwal9300-e2yenmrlb-mehak-aggarwal9300.vercel.app/api/spotify)](https://open.spotify.com/user/h61xzulu4nwq6ltiyn7cjjeuw)
+ok3-mehak-aggarwal9300.vercel.app
+[![Spotify](https://ok3-mehak-aggarwal9300.vercel.app/api/spotify)](https://open.spotify.com/user/h61xzulu4nwq6ltiyn7cjjeuw)
