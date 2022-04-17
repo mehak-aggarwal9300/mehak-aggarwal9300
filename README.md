@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mehakaggarwal9300@gmail.com
 - 😄 Pronouns: She/Her
 - 🛋️ Things of my comfort: Poetry, music and interesting implementations of CS. 
+- Find my deployed projects at: https://mehak-aggarwal9300.github.io/
 
 [![Spotify](https://ok3-mehak-aggarwal9300.vercel.app/api/spotify)](https://open.spotify.com/user/h61xzulu4nwq6ltiyn7cjjeuw)
 
